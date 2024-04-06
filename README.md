@@ -1,11 +1,11 @@
 # BuddhiChal
  Buddhichal is a Nepali board game of strategic placement and movement played on a 3x3 board, where players compete to align their 3 pieces while blocking their opponent's attempts to do the same. It is mostly played in rural areas of Nepal.
-- Players: Two players.
-- Board: A 3x3 grid.
-- Pieces: Each player has three pieces, which are distinguishable from the opponent's pieces.
-- Objective: The goal is to align all three of your pieces either diagonally, vertically, or horizontally.
+- Players: Two players
+- Board: 3x3
+- Pieces: Each player has three pieces, which are distinguishable from the opponent's pieces
+- Objective: The goal is to align all three of your pieces either diagonally, vertically, or horizontally
 
-<div board>
+<div id="board">
   <img src=images/buddhichal_board.png>
   <p align="center">Buddhichal board</p>
 </div>
@@ -18,11 +18,11 @@
 # Output
 
 <p align="center">Welcome Page</p>
-<div welcome>
+<div id="welcome">
   <img src=images/buddhichal_welcome.png>
 </div>
 
 <p align="center">Result Page</p>
-<div welcome>
+<div id="result">
   <img src=images/buddhichal_result.png>
 </div>
