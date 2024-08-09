@@ -17,12 +17,12 @@
 
 # Output
 
-<p align="center">Welcome Page</p>
 <div id="welcome">
   <img src=images/buddhichal_welcome.png>
+  <p align="center">Welcome Page</p>
 </div>
 
-<p align="center">Result Page</p>
 <div id="result">
   <img src=images/buddhichal_result.png>
+  <p align="center">Result Page</p>
 </div>
