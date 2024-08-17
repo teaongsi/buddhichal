@@ -15,7 +15,7 @@
 - After all pieces are placed, players take turns moving one of their pieces to an empty adjacent cell. The piece can move horizontally, vertically, or diagonally to an empty space.
 - The game continues until one player successfully aligns all three of their pieces either diagonally, vertically, or horizontally, thus winning the game.
 
-# Output
+# Outputs
 
 <div id="welcome">
   <img src=images/buddhichal_welcome.png>
